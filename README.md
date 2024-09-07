@@ -25,13 +25,13 @@ Voici le diagramme UML représentant les entités et les relations pour la gesti
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/gestion-commandes.git
+   git clone https://github.com/OusmaneLyDev/gestionCommande.git
 
 
 1. **Accédez au répertoire du projet** :
 
     ```bash
-   cd exo1-express
+   cd gestionCommande
 
 1. **Accédez au répertoire du projet** :
 
